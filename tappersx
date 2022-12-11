@@ -44,7 +44,7 @@ local Settings = {
 
 	AutoRebirth = false,
 
-	SelectedRebirth = 1,
+	SelectedRebirth = 11,
 
 }
 
